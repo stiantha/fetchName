@@ -1,5 +1,4 @@
-![SketchBook (4)](https://github.com/stiantha/SketchBook/assets/132207909/14c2acd3-d852-432f-89ce-95516b000db0)
-
+![randomName](https://github.com/stiantha/randomName/assets/132207909/c0ea4c2d-e3c8-40d8-bced-290f096be668)
 
 ## :beginner: About
 - This project aims to create a website for randomely selecting a name.
