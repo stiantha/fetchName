@@ -1,4 +1,6 @@
-![randomName](https://github.com/stiantha/randomName/assets/132207909/c0ea4c2d-e3c8-40d8-bced-290f096be668)
+
+
+![randomName (1)](https://github.com/stiantha/randomName/assets/132207909/7b6dd152-4354-41e7-8d4e-a676973bbc53)
 
 ## :beginner: About
 - This project aims to create a website for randomely selecting a name.
