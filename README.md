@@ -1,14 +1,13 @@
 ![randomName (2)](https://github.com/stiantha/randomName/assets/132207909/29392833-ada9-4f25-860f-4b297aaa6b58)
 
 
-## :beginner: About
-- **Features**
-    - Manual input
-    - Create, Save, Load
-    - Use pre existing database
+## About
+### :beginner: Features
+- Manual input
+- Create, Save, Load
+- Use pre existing database
   
-## :wrench: Development
-
+## Development
 #### :computer: Tech
 - Next.js
 - Express
