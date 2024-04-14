@@ -10,7 +10,10 @@
 ## :wrench: Development
 
 #### :computer: Tech
-
+- Next.js
+- Express
+- Node
+- SQL
 #### :file_folder: File Structure
 The basic file structure for the project is as follows:
 ```bash
