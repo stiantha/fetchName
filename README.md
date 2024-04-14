@@ -1,6 +1,5 @@
+![randomName (2)](https://github.com/stiantha/randomName/assets/132207909/29392833-ada9-4f25-860f-4b297aaa6b58)
 
-
-![randomName (1)](https://github.com/stiantha/randomName/assets/132207909/7b6dd152-4354-41e7-8d4e-a676973bbc53)
 
 ## :beginner: About
 - **Features**
