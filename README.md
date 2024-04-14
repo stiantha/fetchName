@@ -1,13 +1,11 @@
 ![randomName (2)](https://github.com/stiantha/randomName/assets/132207909/29392833-ada9-4f25-860f-4b297aaa6b58)
 
 
-## About
 ### :beginner: Features
 - Manual input
 - Create, Save, Load
 - Use pre existing database
   
-## Development
 #### :computer: Tech
 - Next.js
 - Express
@@ -19,8 +17,6 @@ The basic file structure for the project is as follows:
 📦fetchName
 
 ```
-
-## :book: Documentation
 
 #### :star2: Credit/Acknowledgment
 Created by Stian Tharaldsen.
