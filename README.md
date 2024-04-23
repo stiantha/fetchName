@@ -19,7 +19,7 @@ The basic file structure for the project is as follows:
 ```
 
 #### :star2: Credit/Acknowledgment
-Created by Stian Tharaldsen.
+Created by Stian Tharaldsen.d
 #### :lock: License
 This project is licensed under the terms of the MIT license.
 - See the [LICENSE](LICENSE) file for details.
